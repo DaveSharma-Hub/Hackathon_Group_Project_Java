@@ -44,9 +44,3 @@ java -cp .;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar;lib/system-rules-1.19.
 
 Note: .jar files are in a folder names lib and all .java in a folder named edu/ucalgary/ensf409
 
-
-Video:
-
-Attached as a downloaded MP4 video
-If MP4 cannot be open, a follow the youtube link (https://youtu.be/9u4Ghm3pJMs)
-
